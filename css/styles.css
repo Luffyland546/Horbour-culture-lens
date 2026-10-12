@@ -22,6 +22,7 @@ h2{font:700 22px Cambria,serif;margin:20px 0 6px}
 
 nav{display:flex;flex-wrap:wrap;gap:6px;margin:14px 0}
 button{font:inherit;color:inherit}
+.mvb {color: black;}
 
 select,select option{font:inherit;color:#000;background:#fff}
 
